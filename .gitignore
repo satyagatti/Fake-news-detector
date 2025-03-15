@@ -1,0 +1,18 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore dataset files
+*.csv
+*.xlsx
+
+# Ignore compiled machine learning models
+model.pkl
+vectorizer.pkl
+
+# Ignore logs and temp files
+*.log
+*.tmp
