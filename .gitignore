@@ -16,3 +16,6 @@ vectorizer.pkl
 # Ignore logs and temp files
 *.log
 *.tmp
+
+.gitignore 
+.vercel
