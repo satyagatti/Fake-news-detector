@@ -9,9 +9,6 @@ __pycache__/
 *.csv
 *.xlsx
 
-# Ignore compiled machine learning models
-model.pkl
-vectorizer.pkl
 
 # Ignore logs and temp files
 *.log
@@ -19,3 +16,5 @@ vectorizer.pkl
 
 .gitignore 
 .vercel
+
+vercel.json
